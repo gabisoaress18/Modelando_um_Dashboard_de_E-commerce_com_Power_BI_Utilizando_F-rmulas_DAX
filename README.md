@@ -8,4 +8,5 @@
 
  - **Descrição:** Utilizar a tabela de Financial Sample para criar as tabelas dimensão e fato do modelo baseado em star schema.
  - **Arquivos:** `Modelando um Dashboard de E-commerce com Power BI Utilizando Fórmulas DAX.pbix`
+   
    ![Captura de Tela](https://github.com/gabisoaress18/Modelando_um_Dashboard_de_E-commerce_com_Power_BI_Utilizando_F-rmulas_DAX/blob/e997722cc31e75954c360121e6a168f8c977d6af/star-schema.png)
